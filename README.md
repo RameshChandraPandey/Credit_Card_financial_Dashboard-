@@ -5,9 +5,7 @@ transaction and customer data from a SQL database,
 to provide insights
 Streamlined data processing & analysis to monitor 
 key performance metrics and trends.
- Shared actionable insights with stakeholders based 
-on dashboard findings to support decision-making 
-processes
+
 WoW change: 
 • Revenue increased by 28.8%, 
 Overview YTD:
